@@ -1,0 +1,124 @@
+## Dirección creativa
+
+Una joyería fina con energía urbana: negro profundo, fotografía editorial de alto contraste, tipografías contundentes y una navegación directa. La referencia se traduce en ritmo visual, mosaicos grandes y actitud callejera, pero con un lenguaje propio de lujo: oro, plata, precisión y exclusividad.
+
+## 1. Estructura de la landing page
+
+1. **Header minimalista**
+   - Logo centrado.
+   - Menú: Cadenas · Anillos · Dijes · Plata · Oro · Custom.
+   - Iconos: búsqueda, cuenta, bolsa.
+   - Barra superior: “Envío asegurado | Garantía de autenticidad”.
+
+2. **Hero banner full-width**
+   - Foto de una cadena o modelo con joyería sobre fondo negro/gris concreto.
+   - Titular grande: “EL PESO DEL ESTILO.”
+   - Subtítulo: “Joyería fina hecha para destacar.”
+   - CTAs: `COMPRAR CADENAS` y `CREA TU PIEZA`.
+
+3. **Categorías en mosaico**
+   - Rejilla asimétrica con imágenes enormes e interactivas.
+   - Bloques: Cadenas, Anillos, Dijes, Plata 925, Oro 10K/14K, Personalizados.
+   - Hover: oscurecimiento ligero, zoom de imagen y texto visible.
+
+4. **Colección destacada**
+   - Título: “PIEZAS QUE HABLAN POR TI.”
+   - Tarjetas de producto con foto frontal, nombre, material, precio y botón rápido “Añadir”.
+   - Incluir etiquetas como “Más vendido”, “Edición limitada” o “Hecho a mano”.
+
+5. **Sección Taller / Custom**
+   - Fondo con video o foto de manos trabajando metal, piedras o grabado.
+   - Explicar el proceso en tres pasos: Idea → Diseño → Pieza final.
+   - CTA: `COTIZAR MI JOYA`.
+
+6. **Garantía y confianza**
+   - Bloques concisos:
+     - Oro y plata verificados.
+     - Certificado de autenticidad.
+     - Envío protegido.
+     - Ajustes y mantenimiento.
+   - Estética tipo sello metálico, no corporativa.
+
+7. **Footer**
+   - Logo, enlaces de ayuda, cuidados de joyería, redes sociales y suscripción.
+   - Texto final: “Hecho para durar. Diseñado para representar.”
+
+## 2. Adaptación visual: lujo urbano oscuro
+
+| Elemento | Dirección |
+|---|---|
+| Fondo | Negro carbón `#0A0A0A`, grafito `#171717`, textura sutil de concreto o metal |
+| Acentos | Oro cálido `#C99A3B`, plata fría `#C5C7C9`, blanco hueso `#F2F0EA` |
+| Tipografía | Sans serif condensada, gruesa y en mayúsculas para titulares; una sans limpia para detalles |
+| Imágenes | Close-ups de metal, destellos controlados, sombras profundas, piel y styling urbano |
+| Tarjetas | Bordes finos gris oscuro, imágenes dominantes, hover con zoom y reflejo metálico |
+| Botones | Rectangulares, mayúsculas, amplios; oro para compra principal y transparente con borde para secundarios |
+| Animación | Transiciones rápidas: zoom leve, destello, desplazamiento horizontal de textos; sin excesos |
+
+La clave es que el producto sea el protagonista: composiciones agresivas y editoriales, pero con espacio negativo suficiente para que la joya se perciba cara.
+
+## 3. Copywriting para banners y productos
+
+### Hero
+
+- **EL PESO DEL ESTILO.**
+  Joyería fina para dejar marca.
+
+- **ORO QUE NO PIDE PERMISO.**
+  Cadenas, anillos y piezas creadas para destacar.
+
+- **HECHO PARA REPRESENTARTE.**
+  Diseña una pieza que nadie más pueda llevar.
+
+### Categorías
+
+- **CADENAS**
+  El eslabón que cambia todo.
+
+- **ANILLOS**
+  Presencia en cada movimiento.
+
+- **DIJES CUSTOM**
+  Tu historia convertida en metal.
+
+- **PLATA 925**
+  Fría, limpia, imposible de ignorar.
+
+- **ORO 10K · 14K**
+  Lujo con peso propio.
+
+- **PIEZAS PERSONALIZADAS**
+  De tu idea a una joya única.
+
+### Productos
+
+- **Cadena Tejido Chino**
+  Brillo compacto. Presencia completa.
+
+- **Cadena Cubana**
+  Un clásico con actitud.
+
+- **Anillo Sello Personalizado**
+  Tu inicial. Tu firma. Tu pieza.
+
+- **Dije Nombre en Oro**
+  Lo personal nunca pasa de moda.
+
+- **Dije Foto Custom**
+  Lleva lo que importa cerca.
+
+- **Pulsera Eslabón Grueso**
+  Detalle pesado. Estilo ligero.
+
+### Taller / personalización
+
+- **NO VENDEMOS COPIAS DE TU ESTILO.**
+  Cuéntanos tu idea y la convertimos en una pieza hecha a tu medida.
+
+- **TU NOMBRE. TU SÍMBOLO. TU METAL.**
+  Personalización real, acabados de joyería fina.
+
+### Garantía
+
+- **METAL REAL. RESPALDO REAL.**
+  Oro y plata auténticos, envío protegido y atención después de tu compra.
