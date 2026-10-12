@@ -271,6 +271,68 @@
             letter-spacing: 1px;
         }
 
+        .icon-call {
+            display: none;
+            color: #1f9c4f;
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 1px;
+        }
+
+        .reviews-section {
+            max-width: 900px;
+            margin: 60px auto 20px auto;
+            padding: 0 24px;
+            text-align: center;
+        }
+
+        .reviews-card {
+            background-color: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 36px 28px;
+        }
+
+        .reviews-score {
+            font-family: var(--font-display);
+            font-size: 64px;
+            line-height: 1;
+            color: var(--ink);
+        }
+
+        .reviews-stars {
+            color: var(--gold-deep);
+            font-size: 24px;
+            letter-spacing: 3px;
+            margin: 8px 0 4px 0;
+        }
+
+        .reviews-count {
+            color: var(--ink-muted);
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+
+        .reviews-note {
+            color: var(--ink-muted);
+            font-size: 13px;
+            max-width: 480px;
+            margin: 0 auto 24px auto;
+        }
+
+        .reviews-actions {
+            display: flex;
+            gap: 12px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .reviews-actions .btn-secondary {
+            color: var(--ink);
+            border-color: var(--border);
+        }
+
         .menu-toggle {
             display: none;
             background: none;
@@ -1095,6 +1157,10 @@
             nav.main-nav > ul > li:hover .dropdown,
             nav.main-nav > ul > li.open .dropdown { display: block; }
             .menu-toggle { display: block; }
+            .icon-whatsapp { display: none; }
+            .icon-call { display: inline; font-size: 12px; letter-spacing: 0.5px; }
+            .header-icons { gap: 12px; }
+            .reviews-score { font-size: 52px; }
             .mosaic-grid { grid-template-columns: 1fr; }
             .mosaic-card.large { grid-column: span 1; }
             .products-grid { grid-template-columns: repeat(2, 1fr); padding: 20px; }
@@ -1110,6 +1176,13 @@
             .hero h1 { font-size: 46px; }
             header { padding: 14px 20px; }
             .hero { padding: 50px 20px; }
+        }
+
+        @media (max-width: 600px) {
+            .products-grid { grid-template-columns: 1fr; }
+            .filter-pills { flex-wrap: wrap; }
+            .guarantee-grid { grid-template-columns: 1fr; }
+            .footer-grid { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -1146,6 +1219,8 @@
         </nav>
         <div class="header-icons">
             <a class="icon-whatsapp" href="https://wa.me/528124082017" target="_blank" rel="noopener">81 2408 2017</a>
+            <a class="icon-call" href="https://wa.me/528124082017" target="_blank" rel="noopener">WHATSAPP</a>
+            <a class="icon-call icon-call-tel" href="tel:+528124082017" style="color: var(--ink);">LLAMAR</a>
             <button class="icon-btn cart-trigger" style="color: var(--gold-deep);">BOLSA (0)</button>
         </div>
         <button class="menu-toggle" aria-label="Abrir menú">&#9776;</button>
@@ -1414,6 +1489,19 @@
         </div>
     </section>
 
+    <section class="reviews-section" id="resenas">
+        <div class="reviews-card">
+            <div class="reviews-score">4.1</div>
+            <div class="reviews-stars">★★★★☆</div>
+            <div class="reviews-count">40 reseñas en Google · Sucursal Apodaca</div>
+            <p class="reviews-note">Lo que dicen nuestros clientes está en Google. Consúltalo y, si ya compraste con nosotros, cuéntanos cómo te fue.</p>
+            <div class="reviews-actions">
+                <a href="https://www.google.com/maps/search/?api=1&query=Taller+de+Joyeria+Alonso+Av+Afganistan+107+Apodaca" target="_blank" rel="noopener" class="btn btn-primary">VER RESEÑAS EN GOOGLE</a>
+                <a href="https://www.google.com/maps/search/?api=1&query=Taller+de+Joyeria+Alonso+Av+Sta+Rosa+de+Lima+1432+Guadalupe" target="_blank" rel="noopener" class="btn btn-secondary">SUCURSAL GUADALUPE EN GOOGLE</a>
+            </div>
+        </div>
+    </section>
+
     <div class="section-header">
         <div>
             <span class="kicker">Visítanos</span>
@@ -1457,6 +1545,7 @@
 
                 <div class="cta-group" style="margin-top: 20px;">
                     <a href="https://wa.me/528124082017" target="_blank" rel="noopener" class="btn btn-whatsapp">ESCRÍBENOS POR WHATSAPP</a>
+                    <a href="tel:+528124082017" class="btn btn-secondary" style="color: var(--ink); border-color: var(--border);">LLAMAR</a>
                     <a href="https://www.google.com/maps/search/?api=1&query=Taller+de+Joyeria+Alonso+Av+Afganistan+107+Apodaca" target="_blank" rel="noopener" class="btn btn-secondary" style="color: var(--ink); border-color: var(--border);">CÓMO LLEGAR</a>
                 </div>
             </div>
@@ -1500,6 +1589,7 @@
 
                 <div class="cta-group" style="margin-top: 20px;">
                     <a href="https://wa.me/528134120889" target="_blank" rel="noopener" class="btn btn-whatsapp">ESCRÍBENOS POR WHATSAPP</a>
+                    <a href="tel:+528134120889" class="btn btn-secondary" style="color: var(--ink); border-color: var(--border);">LLAMAR</a>
                     <a href="https://www.google.com/maps/search/?api=1&query=Taller+de+Joyeria+Alonso+Av+Sta+Rosa+de+Lima+1432+Guadalupe" target="_blank" rel="noopener" class="btn btn-secondary" style="color: var(--ink); border-color: var(--border);">CÓMO LLEGAR</a>
                 </div>
             </div>
